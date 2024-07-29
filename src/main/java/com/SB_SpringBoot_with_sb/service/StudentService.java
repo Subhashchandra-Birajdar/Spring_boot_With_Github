@@ -9,7 +9,6 @@ import java.util.List;
 @Service
 public class StudentService {
 
-
     public List<Student> findAllStudentThroughModelClass(){
         return List.of(
                 new Student(
