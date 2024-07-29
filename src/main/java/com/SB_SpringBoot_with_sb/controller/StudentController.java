@@ -36,6 +36,13 @@ public class StudentController {
                      LocalDate.now(),
                      "rajpatil@gmail.com",
                      29
+             ),
+             new Student(
+                     "vinayak",
+                     "biradar",
+                     LocalDate.now(),
+                     "vinayak@gmail.com",
+                     29
              )
      );
  }
