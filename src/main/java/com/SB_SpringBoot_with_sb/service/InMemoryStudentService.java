@@ -1,4 +1,4 @@
-package com.SB_SpringBoot_with_sb;
+package com.SB_SpringBoot_with_sb.service;
 
 import com.SB_SpringBoot_with_sb.model.Student;
 import com.SB_SpringBoot_with_sb.repository.InMemoryDao;
